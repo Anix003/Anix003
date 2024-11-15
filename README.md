@@ -38,6 +38,7 @@
     <img src="https://skillicons.dev/icons?i=tailwind" width=35/>
     <img src="https://skillicons.dev/icons?i=bootstrap" width=35/>
     <img src="https://skillicons.dev/icons?i=nextjs" width=35/>
+    <img src="https://skillicons.dev/icons?i=vite" width=35/>
     <img src="https://skillicons.dev/icons?i=html" width=35/>
     <img src="https://skillicons.dev/icons?i=css" width=35/>
     <img src="https://skillicons.dev/icons?i=js" width=35/>
