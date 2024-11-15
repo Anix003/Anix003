@@ -182,7 +182,7 @@
 </h2>
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+<img src="https://raw.githubusercontent.com/Anix003/Git_Files/e012746b83249b3a319e22b9bb217cb777ad2086/img/quote.svg" alt="quote"/>
 </div>
 
 <hr>
