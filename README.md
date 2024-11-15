@@ -143,16 +143,6 @@
 </div>
 <hr>
 
-<h2 align='center'>
-
-  🏆 GitHub Trophies 🥇
-</h2>
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=Anix003&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</div>
-
-<hr>
 
 <h2 align="center">
 
@@ -164,6 +154,27 @@
 </div>
 
 <hr>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anix003/anix003/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<hr/>
+
+<h2 align='center'>
+
+  🏆 GitHub Trophies 🥇
+</h2>
+<div align="center">
+
+  ![](https://github-profile-trophy.vercel.app/?username=Anix003&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</div>
+
+<hr>
+
 
 <h2 align="center">
 
