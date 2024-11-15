@@ -159,7 +159,7 @@
 
 <div align="center">
   <h2>🎯 My LeetCode Stats 🧩</h2>
-  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap" />
+  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap&font=Dancing_Script" />
   
   <br/>
 </div>
