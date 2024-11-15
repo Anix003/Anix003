@@ -92,6 +92,7 @@
     <img src="https://skillicons.dev/icons?i=cs" width=35/>
     <img src="https://skillicons.dev/icons?i=rust" width=35/>
     <img src="https://skillicons.dev/icons?i=kotlin" width=35/>
+    <img src="https://skillicons.dev/icons?i=cpp" width=35/>
     </p>
   </div>
  
