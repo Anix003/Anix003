@@ -31,7 +31,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between;">
 
-  <div style="width: 48%; background-color: none; padding: 10px;">
+  <div align="left" style="width: 48%; background-color: none; padding: 10px;">
     <h3>👓 Front-End</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=react" width=35/>
@@ -46,8 +46,8 @@
     </p>
   </div>
 
-  <div style="width: 48%; background-color: none; padding: 10px;">
-    <h3>📳 Back-End</h3>
+  <div align="right" style="width: 48%; background-color: none; padding: 10px;">
+    <h3> Back-End 📳</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=python" width=35/>
     <img src="https://skillicons.dev/icons?i=nodejs" width=35/>
@@ -69,7 +69,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between;">
 
-  <div style="width: 48%; background-color: none; padding: 10px;">
+  <div align="left" style="width: 48%; background-color: none; padding: 10px;">
     <h3>📅 Data Bases</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=mysql" width=35/>
@@ -81,8 +81,8 @@
     </p>
   </div>
 
-  <div style="width: 48%; background-color: none; padding: 10px;">
-    <h3>💻 System Level</h3>
+  <div align="right" style="width: 48%; background-color: none; padding: 10px;">
+    <h3> System Level 💻</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=python" width=35/>
     <img src="https://skillicons.dev/icons?i=nodejs" width=35/>
@@ -98,7 +98,7 @@
  
 </div>
   <div align="center">
-    <h3>Other Skills</h3>
+    <h3>🏹 Other Skills 🔗</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=git" width=35/>
       <img src="https://skillicons.dev/icons?i=github" width=35/>
@@ -122,7 +122,7 @@
   </div>
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ My Stats ⚡</h2>
 <br>
 
 <div align='center'>
@@ -212,5 +212,5 @@
 <div align="center">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
 </div>
