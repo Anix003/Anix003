@@ -59,7 +59,6 @@
     <img src="https://skillicons.dev/icons?i=fastapi" width=35/>
     <img src="https://skillicons.dev/icons?i=php" width=35/>
     <img src="https://skillicons.dev/icons?i=cpp" width=35/>
-    <img src="https://skillicons.dev/icons?i=angular" width=35/>
     <img src="https://skillicons.dev/icons?i=expressjs" width=35/>
     <img src="https://skillicons.dev/icons?i=js" width=35/>
     </p>
