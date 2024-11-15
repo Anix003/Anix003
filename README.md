@@ -158,8 +158,8 @@
 <hr>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap" />
+  <h2>🐍 My LeetCode Stats 🐍</h2>
+  <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap" />
   
   <br/>
 </div>
