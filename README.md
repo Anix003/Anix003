@@ -138,7 +138,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anix003&theme=transparent&hide_border=false" alt="streaks" />
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anix003&theme=react)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Anix003&theme=transparent)](https://git.io/streak-stats)
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anix003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages" />
