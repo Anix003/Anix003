@@ -135,7 +135,7 @@
 </div>
 <div align="center">
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Anix003&theme=react&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Anix003&theme=transparent&hide_border=false)
 </div>
 <div align="center">
 
