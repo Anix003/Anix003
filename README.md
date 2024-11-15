@@ -5,9 +5,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=50&pause=1000&color=7DF7A7&center=true&vCenter=true&width=600&lines=Hey+There!%F0%9F%91%8B;I+am+Anish!)](https://git.io/typing-svg)
 </div>
 
-<h3 align="center" > A Fullstack Developer! 👩🏻‍💻
+<h2 align="center" > A Fullstack Developer! 👩🏻‍💻
 
- From Kolkata, India! 🗺</h3>
+ From Kolkata, India! 🗺</h2>
 
 <hr>
  <div align="center">
