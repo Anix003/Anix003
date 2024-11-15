@@ -159,6 +159,15 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap" />
+  
+  <br/>
+</div>
+
+<hr>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anix003/anix003/output/github-contribution-grid-snake.svg" />
   
   <br/>
