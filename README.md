@@ -234,7 +234,7 @@
 <div align="center">
 <br>
 
-...
+---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
 </div>
