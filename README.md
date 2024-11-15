@@ -180,6 +180,7 @@
   <h2>
     🌐 Connect with Me ⚡
   </h2>
+  <br>
 
   <div align="center"> 
   <a href="mailto:anishbar2003@gmail.com">
