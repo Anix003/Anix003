@@ -42,6 +42,7 @@
     <img src="https://skillicons.dev/icons?i=css" width=35/>
     <img src="https://skillicons.dev/icons?i=js" width=35/>
     <img src="https://skillicons.dev/icons?i=vue" width=35/>
+    <img src="https://skillicons.dev/icons?i=angular" width=35/>
     <img src="https://skillicons.dev/icons?i=figma" width=35/>
     </p>
   </div>
