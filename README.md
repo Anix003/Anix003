@@ -139,7 +139,7 @@
 </div>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anix003&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anix003&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages" />
 </div>
 
 </div>
