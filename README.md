@@ -171,7 +171,7 @@
 </h2>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anix003/Anix003/68e9437b61cf2c9b470c35415fa3eb5573b67b55/dist/img/quote.svg" alt="quote"/>
+<img src="https://raw.githubusercontent.com/Anix003/Git_Files/e012746b83249b3a319e22b9bb217cb777ad2086/img/quote.svg" alt="quote"/>
 </div>
 
 <hr>
@@ -212,5 +212,5 @@
 <div align="center">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
 </div>
