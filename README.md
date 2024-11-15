@@ -19,7 +19,7 @@
  
  🌱 I’m currently learning **AI, ML and Data Science**
 
-💬 Ask me about **Next.js, React, MySQL... or anything [here](https://github.com/anix003/anix003/issues)**
+💬 Ask me about **Next.js, Python, MySQL... or anything [here](https://github.com/anix003/anix003/issues)**
 
 ⚡ Fun fact **Python is named after _Monty Python_, not the snake!**
 
