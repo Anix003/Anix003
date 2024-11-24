@@ -131,14 +131,14 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Anix003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="commits" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anix003&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="commits" />
 </div>
 <div align="center">
 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anix003&theme=transparent&hide_border=false" alt="streaks" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anix003&theme=react&hide_border=false" alt="streaks" />
 </div>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anix003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anix003&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="languages" />
 </div>
 
 </div>
