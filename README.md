@@ -192,7 +192,7 @@
 </h2>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Anix003/Git_Files/e012746b83249b3a319e22b9bb217cb777ad2086/img/quote.svg" alt="quote"/>
+<img src="https://github.com/Anix003/Anix003/blob/34cb02977ca6777e8b890167e46b106e5f2b44cb/img/quote.svg" alt="quote"/>
 </div>
 
 <hr>
