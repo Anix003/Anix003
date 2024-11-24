@@ -151,7 +151,7 @@
 </h2>
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Anix003&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="contributions" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Anix003&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="contributions" />
 </div>
 
 <hr>
