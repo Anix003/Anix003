@@ -43,8 +43,8 @@
     <img src="https://skillicons.dev/icons?i=css" width=35/>
     <img src="https://skillicons.dev/icons?i=js" width=35/>
     <img src="https://skillicons.dev/icons?i=vue" width=35/>
-    <img src="https://skillicons.dev/icons?i=angular" width=35/>
-    <img src="https://skillicons.dev/icons?i=figma" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=angular" width=35/ -->
+    <!-- img src="https://skillicons.dev/icons?i=figma" width=35/ -->
     </p>
   </div>
 
@@ -59,7 +59,7 @@
     <img src="https://skillicons.dev/icons?i=django" width=35/>
     <img src="https://skillicons.dev/icons?i=flask" width=35/>
     <img src="https://skillicons.dev/icons?i=fastapi" width=35/>
-    <img src="https://skillicons.dev/icons?i=php" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=php" width=35/ -->
     <img src="https://skillicons.dev/icons?i=cpp" width=35/>
     <img src="https://skillicons.dev/icons?i=expressjs" width=35/>
     <img src="https://skillicons.dev/icons?i=js" width=35/>
@@ -74,26 +74,26 @@
     <h3>📅 Data Bases</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=mysql" width=35/>
-    <img src="https://skillicons.dev/icons?i=mongodb" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=mongodb" width=35/ -->
     <img src="https://skillicons.dev/icons?i=sqlite" width=35/>
-    <img src="https://skillicons.dev/icons?i=postgresql" width=35/>
-    <img src="https://skillicons.dev/icons?i=graphql" width=35/>
-    <img src="https://skillicons.dev/icons?i=redis" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=postgresql" width=35/ -->
+    <!-- img src="https://skillicons.dev/icons?i=graphql" width=35/ -->
+    <!-- img src="https://skillicons.dev/icons?i=redis" width=35/ -->
     </p>
   </div>
 
   <div align="right" style="width: 48%; background-color: none; padding: 10px;">
     <h3> System Level 💻</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=python" width=35/>
+    <img src="https://skillicons.dev/icons?i=python" width=35/>
     <img src="https://skillicons.dev/icons?i=nodejs" width=35/>
     <img src="https://skillicons.dev/icons?i=java" width=35/>
     <img src="https://skillicons.dev/icons?i=c" width=35/>
-    <img src="https://skillicons.dev/icons?i=go" width=35/>
-    <img src="https://skillicons.dev/icons?i=net" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=go" width=35/ -->
+    <!-- img src="https://skillicons.dev/icons?i=net" width=35/ -->
     <img src="https://skillicons.dev/icons?i=cs" width=35/>
-    <img src="https://skillicons.dev/icons?i=rust" width=35/>
-    <img src="https://skillicons.dev/icons?i=kotlin" width=35/>
+    <!-- img src="https://skillicons.dev/icons?i=rust" width=35/>
+    <img src="https://skillicons.dev/icons?i=kotlin" width=35/ -->
     <img src="https://skillicons.dev/icons?i=cpp" width=35/>
     </p>
   </div>
@@ -103,15 +103,15 @@
     <h3>🏹 Other Skills 🔗</h3>
     <p>
       <img src="https://skillicons.dev/icons?i=git" width=35/>
-      <img src="https://skillicons.dev/icons?i=github" width=35/>
+      <!-- img src="https://skillicons.dev/icons?i=github" width=35/ -->
       <img src="https://skillicons.dev/icons?i=vscode" width=35/>
       <img src="https://skillicons.dev/icons?i=sublime" width=35/>
-      <img src="https://skillicons.dev/icons?i=atom" width=35/>
+      <!-- img src="https://skillicons.dev/icons?i=atom" width=35/ -->
       <img src="https://skillicons.dev/icons?i=linux" width=35/>
       <img src="https://skillicons.dev/icons?i=kali" width=35/>
-      <img src="https://skillicons.dev/icons?i=debian" width=35/>
+      <!-- img src="https://skillicons.dev/icons?i=debian" width=35/ -->
       <img src="https://skillicons.dev/icons?i=bash" width=35/>
-      <img src="https://skillicons.dev/icons?i=arch" width=35/>
+      <!-- img src="https://skillicons.dev/icons?i=arch" width=35/ >
       <img src="https://skillicons.dev/icons?i=aws" width=35/>
       <img src="https://skillicons.dev/icons?i=vercel" width=35/>
       <img src="https://skillicons.dev/icons?i=wordpress" width=35/>
@@ -119,7 +119,7 @@
       <img src="https://skillicons.dev/icons?i=pr" width=35/>
       <img src="https://skillicons.dev/icons?i=gitlab" width=35/>
       <img src="https://skillicons.dev/icons?i=npm" width=35/>
-      <img src="https://skillicons.dev/icons?i=powershell" width=35/>
+      <img src="https://skillicons.dev/icons?i=powershell" width=35/ -->
     </p>
   </div>
 <hr/>
