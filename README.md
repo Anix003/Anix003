@@ -154,14 +154,14 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=Anix003&limit=5&theme=gotham&combine_all_yearly_contributions=true" alt="contributions" />
 </div>
 
-<hr>
+<!-- hr>
 
 <div align="center">
   <h2>🎯 My LeetCode Stats 🧩</h2>
   <img alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/Anix003?ext=heatmap&font=Dancing_Script" />
   
   <br/>
-</div>
+</div -->
 
 <hr>
 
