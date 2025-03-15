@@ -1,4 +1,4 @@
-<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Anix003&icon=3&color=cyan)(https://visitcount.itsvg.in)" alt="anix003" /> </p>
+<p align="right"> <img src="https://visitcount.itsvg.in/api?id=Anix003&icon=3&color=cyan(https://visitcount.itsvg.in)" alt="anix003" /> </p>
 
 <div align="center">
 
@@ -239,8 +239,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&size=30&pause=1000&color=338DF7&center=true&vCenter=true&multiline=true&width=435&height=200&lines=Thank+You!;For+visiting+My+Profile!)](https://git.io/typing-svg)
 </div>
 
-<p align="right"> ![Profile Views](https://komarev.com/ghpvc/?username=Anix003&color=blue) </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Anix003&color=blue" alt="anix003" /> </p>
 
-<p align="right">
+![Profile Views](https://komarev.com/ghpvc/?username=Anix003&color=blue) 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anix003&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-</p>
+
