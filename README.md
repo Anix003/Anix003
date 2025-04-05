@@ -1,7 +1,11 @@
 <!-- p align="right"> <img src="(https://visitcount.itsvg.in/api?id=Anix003&icon=3&color=cyan)(https://visitcount.itsvg.in)" alt="anix003" /> </p -->
 
 
-<p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anix003&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="anix003" /> </p>
+<!--p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anix003&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="anix003" /> </p-->
+
+<p align="right">
+  <img src="https://img.shields.io/github/profile-views/Anix003?color=blue&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</p>
 
 <div align="center">
 
