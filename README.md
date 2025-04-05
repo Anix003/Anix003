@@ -3,9 +3,18 @@
 
 <!--p align="right"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Anix003&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="anix003" /> </p-->
 
-<p align="right">
+<!--p align="right">
   <img src="https://img.shields.io/github/profile-views/Anix003?color=blue&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+</p-->
+
+<!--p align="right">
+  <img src="https://img.shields.io/github/followers/Anix003?label=Follow%20Me&style=social" alt="GitHub Followers"/>
 </p>
+
+<!--p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anix003.Anix003" alt="visitor count"/>
+</p-->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anix003&label=Profile%20views&color=0e75b6&style=flat" alt="anix003" /> </p>
 
 <div align="center">
 
