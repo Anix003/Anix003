@@ -241,7 +241,7 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-rgb(235, 27, 27)?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://anishbardev.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-833AB4?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
